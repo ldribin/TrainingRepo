@@ -1,2 +1,2 @@
 # TrainingRepo
-Training Repository
+Updating the Training Repository
